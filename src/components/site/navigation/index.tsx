@@ -17,7 +17,7 @@ const Navigation = ({ user }: Props) => {
           src={'./assets/plura-logo.svg'}
           width={40}
           height={40}
-          alt="plura logo"
+          alt="plur logo"
         />
         <span className="text-xl font-bold"> Plura.</span>
       </aside>
@@ -44,4 +44,3 @@ const Navigation = ({ user }: Props) => {
 }
 
 export default Navigation
-
